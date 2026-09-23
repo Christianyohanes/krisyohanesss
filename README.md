@@ -15,5 +15,3 @@ Mahasiswa Sistem Komputer di ITB STIKOM Bali, lagi fokus belajar jadi **SOC Anal
 ### 🛠️ Skills yang lagi dibangun
 `Networking (TCP/IP, Subnetting, VLAN)` `Linux (Log Analysis)` `Windows (Event Viewer)` `Cisco Packet Tracer` `SIEM (dasar)`
 
-### 📊 GitHub Stats
-![Kriss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christianyohanes&show_icons=true&theme=default)
